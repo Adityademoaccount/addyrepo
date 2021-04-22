@@ -1,1 +1,3 @@
 readme man idiot
+
+check the logs man
