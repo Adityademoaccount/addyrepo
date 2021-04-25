@@ -1,0 +1,21 @@
+Hi Anna
+Can you please give me the KT for the production issues/configurations we normally do in production env's. As gopal is having health issues (Eye Problem) and will be in long leave futher days , Am going to handle few things which you both were handling before.
+
+
+1. What are the changes we have done for new relic in lower environments ?
+2. Are there any changes that we need to do in production for new relic apart from the one we did in lower environments ?
+3. What are the configuration we have done for trelio ?
+4. How do we upgrade the instance to new tomcat version ?
+5. java upgrade on the instance
+6. OS patching on the instance 
+7. Any anisble/shell scripts that we need specially ?
+8. KMS rotating keys - Few border explanation ?
+9. CA Certs expirations in production ?
+10. Network tunnel issues that we faced previously and what are the solutions that we have found ?
+11. All the urls/hostnames that we use for production  env ?
+
+Please let me know if i missed anything that is important and i have no idea on.
+
+Thanks
+
+Aditya
